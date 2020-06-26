@@ -3,7 +3,7 @@ SFDC solutions and utilities
 
 ## ApexLogCleaner
 Batch for deleting 'Debug Logs' periodically.
-### ApexLogCleaner usage
+### How to use
 ```
 Integer runEachMinutes = 2;
 new ApexLogCleaner(runEachMinutes).start();
