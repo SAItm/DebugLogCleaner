@@ -1,6 +1,11 @@
 # APEX-Utilites
 SFDC solutions and utilities 
 
+<a href="https://githubsfdeploy.herokuapp.com">
+  <img alt="Deploy to Salesforce"
+       src="https://raw.githubusercontent.com/afawcett/githubsfdeploy/master/deploy.png">
+</a>
+
 ## ApexLogCleaner
 Batch for deleting 'Debug Logs' periodically.
 ### How to use
